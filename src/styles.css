@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap');
+
+.App {
+  text-align: center;
+  padding: 40px;
+  font-family: 'Raleway', sans-serif;
+  scroll-behavior: smooth;
+}
+
+.MuiDrawer-paper {
+  width: 60% !important;
+  font-family: 'Raleway', sans-serif;
+  }
